@@ -1,0 +1,24 @@
+#back-calculator {
+    background-color: #222;
+}
+
+button.btn.key {
+    margin: 0 auto;
+    display: block;
+}
+
+button.btn.key {
+    background: #444;
+    color: #fff;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+button.btn.key.btn-gray {
+    background: #999;
+}
+
+button.btn.key.btn-orange {
+    background: #ff9f00;
+}
